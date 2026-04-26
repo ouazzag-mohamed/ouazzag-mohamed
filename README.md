@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-**Data & Security (Current S6 Focus):**
+**Data & Security:**
 <p>
   <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
